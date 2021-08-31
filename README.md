@@ -35,6 +35,8 @@
 
 ### 奔雷手 - 5C解题法
 
+![001](/images/001.jpeg)
+
 - Clarify
 - Core objects
 - Cases
