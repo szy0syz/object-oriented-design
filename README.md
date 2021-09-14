@@ -45,6 +45,23 @@
 
 ## 02 管理类面向对象设计 OOD for Management System
 
+![001](/images/C02/001.png)
+
+### Clarify
+
+- What
+  - 关键字：Parking lot
+  - `它` 管理到时什么？
+  - Vehicle / Parking Spots
+
+> Vehicle --> Parking Lot --> Parking Spot
+
+- Parking lot: 考虑多层的 Parking lot，没有错层
+- Vehicle：考虑三种大小的车
+- 不考虑残疾人车位 / 充电车位
+
+- 如何设计停车场来支持不停大小的车？
+
 ## 03 预定类面向对象设计 OOD for Reservation System
 
 ## 04 实物类面向对象设计 OOD for Real Life Object
