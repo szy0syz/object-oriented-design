@@ -60,11 +60,15 @@
 - Vehicle：考虑三种大小的车
 - 不考虑残疾人车位 / 充电车位
 
-- 如何设计停车场来支持不停大小的车？
+### Law of Demeter
+
+"Each unit should have only limited knowledge about other units: only units 'closely' related to the current unit. Each unit should only talk to its friends; don't talk to strangers."
+
+- Only talk to you immediate friends
+- Don't talk to strangers
 
 ## 03 预定类面向对象设计 OOD for Reservation System
 
 ## 04 实物类面向对象设计 OOD for Real Life Object
 
 ## 05 游戏棋牌类面向对象设计 OOD for Games
-
